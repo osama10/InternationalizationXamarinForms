@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en" target-language="de-DE" original="INTERNATIONALIZATION/INTERNATIONALIZATION/APPRESOURCES.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="INTERNATIONALIZATION/INTERNATIONALIZATION/APPRESOURCES.RESX" datatype="resx">
+        <trans-unit id="Name" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Name</target>
+        </trans-unit>
+        <trans-unit id="Name_es" translate="yes" xml:space="preserve">
+          <source>Nombre</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Nombre</target>
+        </trans-unit>
+        <trans-unit id="Name_fr" translate="yes" xml:space="preserve">
+          <source>prénom</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Prénom</target>
+        </trans-unit>
+        <trans-unit id="Password" translate="yes" xml:space="preserve">
+          <source>Password</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Passwort</target>
+        </trans-unit>
+        <trans-unit id="Password_es" translate="yes" xml:space="preserve">
+          <source>Contraseña</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Contraseña</target>
+        </trans-unit>
+        <trans-unit id="Password_fr" translate="yes" xml:space="preserve">
+          <source>Mot de passe</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Mot de passe</target>
+        </trans-unit>
+        <trans-unit id="Welcome" translate="yes" xml:space="preserve">
+          <source>Welcome</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Willkommen</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

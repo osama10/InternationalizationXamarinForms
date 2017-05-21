@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<ArrayOfCacheFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CacheFile>
+    <FileName>Internationalization\AppResources.resx</FileName>
+    <Checksum>3414551395917815986644219220653220420</Checksum>
+    <ModifiedTime>2017-02-22T18:43:37.7373394</ModifiedTime>
+    <CacheFileType>NeutralResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>MultilingualResources\Internationalization.de.xlf</FileName>
+    <Checksum>1852722082241448514134591678324147134146</Checksum>
+    <ModifiedTime>2017-02-25T08:17:13.0027939-08:00</ModifiedTime>
+    <CacheFileType>XliffResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>Internationalization\AppResources.de.resx</FileName>
+    <Checksum>2212181052161266415236184923310816176199128</Checksum>
+    <ModifiedTime>2017-02-25T08:17:58.7577374-08:00</ModifiedTime>
+    <CacheFileType>LanguageResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>MultilingualResources\Internationalization.de-DE.xlf</FileName>
+    <Checksum>301751441321921593718838207228311187457143</Checksum>
+    <ModifiedTime>2017-02-25T08:29:29.4470945-08:00</ModifiedTime>
+    <CacheFileType>XliffResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>Internationalization\AppResources.de-DE.resx</FileName>
+    <Checksum>2212181052161266415236184923310816176199128</Checksum>
+    <ModifiedTime>2017-02-25T08:29:43.556577-08:00</ModifiedTime>
+    <CacheFileType>LanguageResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>MultilingualResources\Internationalization.es.xlf</FileName>
+    <Checksum>132220819165152145101121248661424172248</Checksum>
+    <ModifiedTime>2017-02-25T08:46:29.6605448-08:00</ModifiedTime>
+    <CacheFileType>XliffResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>Internationalization\AppResources.es.resx</FileName>
+    <Checksum>7119622350147107321292342548684255532234</Checksum>
+    <ModifiedTime>2017-02-25T08:49:11.0585331-08:00</ModifiedTime>
+    <CacheFileType>LanguageResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+</ArrayOfCacheFile>

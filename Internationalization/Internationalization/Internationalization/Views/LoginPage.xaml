@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Internationalization.Views.LoginPage">
+
+
+  <StackLayout 
+    VerticalOptions="Center" 
+    HorizontalOptions="Center"
+    Orientation="Vertical"
+    Spacing="20"
+    Padding ="20"
+  >
+    <StackLayout
+      Orientation="Horizontal"
+     Spacing="20"
+      
+      >
+
+      <Label 
+        
+        x:Name ="lb_Name"   />
+      <Entry Placeholder="Enter Your Name"/>
+      
+    </StackLayout>  
+      <StackLayout
+      Orientation="Horizontal"
+     Spacing="20"
+      >
+
+      <Label 
+        
+        x:Name ="lb_Password"   />
+      <Entry Placeholder="Enter Password"/>
+      
+      
+    </StackLayout>
+    <Picker
+      x:Name ="Lang_Selector"
+      Title="Select Language"
+      SelectedIndexChanged="OnLangSelected"
+      >
+      <Picker.Items>
+        <x:String>English</x:String>
+        <x:String>French</x:String>
+        <x:String>Spanish</x:String>
+        
+      </Picker.Items>
+  
+    </Picker>
+  </StackLayout>
+
+</ContentPage>
